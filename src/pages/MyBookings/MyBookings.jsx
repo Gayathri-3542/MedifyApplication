@@ -43,7 +43,6 @@ export default function MyBookings() {
               <Typography
                 component="h1"
                 variant="h1" 
-                mb={3}
                 pb={1}
                 fontSize={{ xs: 32, md: 40 }}
                 fontWeight={700}
